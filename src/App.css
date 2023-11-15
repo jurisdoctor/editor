@@ -1,3 +1,21 @@
-.App {
-  text-align: center;
+.app {
+  background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.editor {
+  background-color: #b7e4c7;
+  border-radius: 5px;
+  height: 60vh;
+  margin: auto;
+  width: 60vw;
+}
+
+.interface {
+  background: #b7e4c7;
+  border-radius: 5px;
+  display: flex;
+  height: 100%;
 }
